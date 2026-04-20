@@ -1,2 +1,23 @@
-# lwc-projects-library
-Collection of Lightning Web Components (LWC) projects from basic to advanced
+# 🚀 LWC Projects Library
+
+Welcome! This repository contains my journey of becoming an LWC expert.
+
+## 📂 Structure
+
+* Basic Projects
+* Intermediate Projects
+* Advanced Projects
+
+## 🛠 Tech Stack
+
+* Lightning Web Components (LWC)
+* Apex
+* Salesforce
+
+## 🎯 Goal
+
+To build reusable, scalable, and real-world LWC components.
+
+---
+
+⭐ Stay tuned for more projects!
